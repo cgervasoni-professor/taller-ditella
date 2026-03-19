@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "cgervasoni-professor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268615873?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "cgervasoni-professor",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:54.892Z",
-    "updated_at": "2026-03-19T21:28:54.892Z"
-  }
+    "updated_at": "2026-03-19T21:28:54.892Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "24ba5eed-f738-45b1-b2a4-e0b1b51c0d93": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:54.911Z",
+      "created_by": "cgervasoni-professor",
+      "title": "Taller Di Tella ",
+      "updated_at": "2026-03-19T21:28:54.911Z",
+      "updated_by": "cgervasoni-professor",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "24ba5eed-f738-45b1-b2a4-e0b1b51c0d93"
+  ]
 }
